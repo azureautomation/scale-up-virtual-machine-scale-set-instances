@@ -1,0 +1,20 @@
+{
+    "Author": "Kay Singh",
+    "ContentSize": 11570,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scale-up-virtual-machine-scale-set-instances/master/scaleUp.ps1",
+    "DownloadCount": 2366,
+    "Id": "Scale-Up-Virtual-Machine-21a0cf17",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 89,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2016-4-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook will scale down Virtual Machine Scale Set instances. This is intended to run only in Azure Automation service. An Azure Automation account with the \"Run as\" feature is required.",
+    "Title": "Scale Up Virtual Machine Scale Set Instances",
+    "UpdatedDate": "2019-4-9T00:00:00",
+    "Url": "https://github.com/azureautomation/scale-up-virtual-machine-scale-set-instances",
+    "UserTags": ""
+}
