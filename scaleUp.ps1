@@ -21,7 +21,7 @@ if ($WebhookData -ne $null) {
 	$WebhookBody    =   $WebhookData.RequestBody
 	
 	# Obtain the WebhookBody containing the AlertContext
-    $WebhookBody = (ConvertFrom-Json -InputObject $WebhookBody)
+    	$WebhookBody = (ConvertFrom-Json -InputObject $WebhookBody)
 
 	if ($WebhookBody.status -eq "Activated") {
 		
