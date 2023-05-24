@@ -3,7 +3,7 @@
 
             
 
-This Azure Automation runbook will scale up Virtual Machine Scale Set instances. This is intended to run only in Azure Automation service. An Azure Automation System Assigned Managed Identity for the correct permissions is required for this to work correctly. You can read more about it here https://learn.microsoft.com/en-us/azure/automation/enable-managed-identity-for-automation
+This Azure Automation runbook will scale up Virtual Machine Scale Set instances. This is intended to run only in Azure Automation service. An Azure Automation account with System Assigned Managed Identity with the correct permissions is required for this to work correctly. You can read more about System Assigned Managed Identity here https://learn.microsoft.com/en-us/azure/automation/enable-managed-identity-for-automation
 
 
  
